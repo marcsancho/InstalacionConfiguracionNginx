@@ -1,20 +1,20 @@
 # InstalacionConfiguracionNginx
 ## Instalación de Nginx
-La instalación en este caso la hacemos des de un ubuntu, concretamente un desktop 20.04, en este, en su linea de comandos introducimos `sudo apt-get install nginx`
+La instalación en este caso la hacemos des de un ubuntu, concretamente un desktop 20.04, en este, en su linea de comandos introducimos `sudo apt-get install nginx`<br>
 ![image](https://user-images.githubusercontent.com/91566044/166509345-9238020d-2169-4a4f-b05c-0d7af84e2235.png)
 <br>
 
 ## Configuración de Nginx
 <br>
-Lo siguiente que haremos es copiar el default de `sites-available`de la aplicación, en este c
+Lo siguiente que haremos es copiar el default de `sites-available`de la aplicación, en este caso le cambiamos el nombre a `marc.com`.<br>
 ![image](https://user-images.githubusercontent.com/91566044/166510123-8d4e4575-436b-40bf-9c74-89e7e0c83a15.png)
 <br>
 
-Modificamos el archivo en cuestión, seleccionando donde escucha el servidor
+Modificamos el archivo en cuestión, seleccionando donde escucha el servidor. <br>
 ![image](https://user-images.githubusercontent.com/91566044/166510643-8f08ec82-d9c1-46b2-8a13-eabdab559ab8.png)
 <br>
 
-Modificamos también el nombre de la carpeta del servidor y el nombre del servidor en si.
+Modificamos también el nombre de la carpeta del servidor y el nombre del servidor en si.<br>
 ![image](https://user-images.githubusercontent.com/91566044/166510742-f0dd14b2-e957-4e92-ada3-57e7273f0a0a.png)
 <br>
 
