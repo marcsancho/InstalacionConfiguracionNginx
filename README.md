@@ -6,8 +6,10 @@ La instalación en este caso la hacemos des de un ubuntu, concretamente un deskt
 
 ## Configuración de Nginx
 <br>
-Lo siguiente que haremos es copiar el default de `sites-available`de la aplicación, en este caso le cambiamos el nombre a `marc.com`.<br>
+Lo siguiente que haremos es copiar el default de `sites-available`de la aplicación, en este caso le cambiamos el nombre a `marc.com`. <br>
+
 ![image](https://user-images.githubusercontent.com/91566044/166510123-8d4e4575-436b-40bf-9c74-89e7e0c83a15.png)
+
 <br>
 
 Modificamos el archivo en cuestión, seleccionando donde escucha el servidor. <br>
